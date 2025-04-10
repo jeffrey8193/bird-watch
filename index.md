@@ -1,3 +1,8 @@
+---
+layout: default
+title: Manoa Bird Watch
+---
+
 Our Github Organization and Repositories  
 <https://github.com/orgs/manoa-bird-watch/repositories>  
 
