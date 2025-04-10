@@ -3,8 +3,5 @@ description: Homepage for the Manoa Bird Watch project
 google_analytics:
 show_downloads: true
 theme: jekyll-theme-cayman
-github:
-  is_project_page: true
-  repository_url: https://github.com/manoa-bird-watch/manoa-bird-watch.github.io
 gems:
   - jekyll-mentions
